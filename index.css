@@ -60,7 +60,7 @@ button:hover {
 .app-container {
     margin: auto;
     max-width: 80%;
-    padding: 40px;
+    padding: 40px 20px;
     background-color: rgba(0, 0, 0, 0.5);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
     border-radius: 12px;
